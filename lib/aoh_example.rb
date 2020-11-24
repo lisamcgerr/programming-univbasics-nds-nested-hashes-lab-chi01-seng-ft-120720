@@ -17,6 +17,7 @@ end
 
 def literal_aoh
   [
+    {name: "Joelle van Dyne", occupation: "Radio Personality" },
     
     
     ]
